@@ -1,5 +1,8 @@
 ## 안녕하세요 MicroStrategy 시각화 안내서 홈페이지입니다. 
 
+# 리소스 파일은 다음 경로에서 받을 수 있습니다. 
+[리소스 파일] (https://github.com/mstrkorea/books/) 입니다. 
+
 You can use the [editor on GitHub](https://github.com/mstrkorea/books/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
