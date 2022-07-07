@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 안녕하세요 MicroStrategy 시각화 안내서 홈페이지입니다. 
 
 You can use the [editor on GitHub](https://github.com/mstrkorea/books/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
