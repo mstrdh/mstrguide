@@ -11,4 +11,4 @@
 [데이터 파일 다운로드](MstrGuideBookDataFiles.zip)
 
 
-![책 커버 페이지]({{site.url}}/images/logo.png)
+![책 커버 페이지](images/logo.png)
